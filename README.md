@@ -43,21 +43,21 @@ or
 ---
 
 ## Lab Programs :
-1. [Fibonacci Sequence](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/01_Fibonacci_Sequence.c)
+1. [Fibonacci Sequence](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/01_Fibonacci_Sequence.c)
 
-2. [Insert Element in an Array](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/02_Insert_Element_Array.c)
+2. [Insert Element in an Array](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/02_Insert_Element_Array.c)
 
-3. [Matrix Sum](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/03_Matrix_Sum.c)
+3. [Matrix Sum](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/03_Matrix_Sum.c)
 
-4. [Matrix Multiplication](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/04_Matrix_Multiplication.c)
+4. [Matrix Multiplication](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/04_Matrix_Multiplication.c)
 
-5. [Newton Forward Interpolation](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/05_Newton_Forward_Interpolation.c)
+5. [Newton Forward Interpolation](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/05_Newton_Forward_Interpolation.c)
 
-6. [Newton Backward Interpolation](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/05_Newton_Backward_Interpolation.c)
+6. [Newton Backward Interpolation](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/05_Newton_Backward_Interpolation.c)
 
-7. [Lagranges Interpolation](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/07_Lagranges_Interpolation.c)
+7. [Lagranges Interpolation](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/07_Lagranges_Interpolation.c)
 
-8. [Numerical Integration Using Trapezoidal Method](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/08_Numerical_Integration_Trapezoidal_Method.c)
+8. [Numerical Integration Using Trapezoidal Method](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/08_Numerical_Integration_Trapezoidal_Method.c)
 
-9. [Simpson's 1/3 Rule](https://github.com/Soumojitshome2023/BS-M491-Numerical-Methods-Lab/tree/main/09_Simpsons_1_3_Rule.c)
+9. [Simpson's 1/3 Rule](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/09_Simpsons_1_3_Rule.c)
 
