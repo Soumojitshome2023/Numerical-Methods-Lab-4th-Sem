@@ -53,7 +53,7 @@ or
 
 5. [Newton Forward Interpolation](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/05_Newton_Forward_Interpolation.c)
 
-6. [Newton Backward Interpolation](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/05_Newton_Backward_Interpolation.c)
+6. [Newton Backward Interpolation](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/06_Newton_Backward_Interpolation.c)
 
 7. [Lagranges Interpolation](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/07_Lagranges_Interpolation.c)
 
