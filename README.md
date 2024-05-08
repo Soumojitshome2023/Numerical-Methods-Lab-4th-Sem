@@ -61,3 +61,7 @@ or
 
 9. [Simpson's 1/3 Rule](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/09_Simpsons_1_3_Rule.c)
 
+10. [Bisection](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/10_Bisection.c)
+
+11. [RegulaFalsi](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/11_RegulaFalsi.c)
+
