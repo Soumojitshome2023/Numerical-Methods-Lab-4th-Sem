@@ -65,3 +65,5 @@ or
 
 11. [RegulaFalsi](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/11_RegulaFalsi.c)
 
+12. [Simpson 3/8](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/12_Simpson_3_8.c)
+
