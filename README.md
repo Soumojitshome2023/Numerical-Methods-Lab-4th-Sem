@@ -67,3 +67,5 @@ or
 
 12. [Simpson 3/8](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/12_Simpson_3_8.c)
 
+13. [Newton Divided Difference](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/13_Newton_Divided_Difference.c)
+

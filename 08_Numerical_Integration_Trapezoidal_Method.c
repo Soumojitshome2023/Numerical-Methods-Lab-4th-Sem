@@ -32,3 +32,12 @@ int main()
     printf("\nRequired value of integration is: %.3f", integration);
     return 0;
 }
+
+/*
+Output : 
+Enter lower limit of integration: 0
+Enter upper limit of integration: 1
+Enter number of sub intervals: 6
+
+Required value of integration is: 0.784
+*/

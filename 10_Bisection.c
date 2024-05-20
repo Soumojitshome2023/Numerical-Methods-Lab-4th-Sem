@@ -5,7 +5,7 @@
 double f(double x)
 {
 	// Function
-	return x * x * x - x - 4;
+	return (x * x * x) - x - 1;
 }
 double Bisection(double a, double b)
 {
@@ -36,3 +36,23 @@ int main()
 	printf("The root is : %f\n", root);
 	return 0;
 }
+
+/*
+Output :
+Enter two initial guesses : 1
+2
+Value of  h : 1.250000
+Value of  h : 1.375000
+Value of  h : 1.312500
+Value of  h : 1.343750
+Value of  h : 1.328125
+Value of  h : 1.320313
+Value of  h : 1.324219
+Value of  h : 1.326172
+Value of  h : 1.325195
+Value of  h : 1.324707
+Value of  h : 1.324951
+Value of  h : 1.324829
+Value of  h : 1.324768
+The root is : 1.324768
+*/

@@ -66,3 +66,31 @@ int main()
     printf("Interpolated value at %.2f is %.6f\n", value, sum);
     return 0;
 }
+
+/*
+OutPut :
+
+Enter the number of data points: 5
+Enter the x values:
+1891
+1901
+1911
+1921
+1931
+Enter the corresponding y values:
+46
+66
+81
+93
+101
+Backward Difference Table:
+1891.00 46.000000
+1901.00 66.000000       20.000000
+1911.00 81.000000       15.000000       -5.000000
+1921.00 93.000000       12.000000       -3.000000       2.000000
+1931.00 101.000000      8.000000        -4.000000       -1.000000       -3.000000
+
+Enter the value at which you want to interpolate: 1925
+Interpolated value at 1925.00 is 96.836800
+
+*/

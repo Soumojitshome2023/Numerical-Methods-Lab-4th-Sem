@@ -36,3 +36,20 @@ int main()
     printf("Interpolated value at %.3f is %.3f.\n", xp, yp);
     return 0;
 }
+
+/*
+Output :
+Enter number of data: 4
+Enter data:
+x[1] = 5
+y[1] = 12
+x[2] = 6
+y[2] = 13
+x[3] = 9
+y[3] = 14
+x[4] = 11
+y[4] = 16
+Enter interpolation point: 10
+Interpolated value at 10.000 is 14.667.
+
+*/
