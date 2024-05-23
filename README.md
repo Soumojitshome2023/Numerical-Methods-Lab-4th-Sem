@@ -74,4 +74,26 @@ or
 13. [Newton Divided Difference](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/13_Newton_Divided_Difference.c)
 
 
+## Formulas : 
+
+#### Newtons-Forward-Interpolation-Example :
+![Newtons-Forward-Interpolation-Example](./assets/Newtons-Forward-Interpolation-Example.png)
+
+#### Newtons-Backward-Interpolation-Example :
+![Newtons-Backward-Interpolation-Example](./assets/Newtons-Backward-Interpolation-Example.png)
+
+#### Lagrange-Interpolation-Method :
+![Lagrange-Interpolation-Method](./assets/Lagrange-Interpolation-Method.png)
+
+#### Trapezoidal-Method :
+![Trapezoidal-Method](./assets/Trapezoidal-Method.png)
+
+#### Simpsons-1-3-rd-Rule :
+![Simpsons-1-3-rd-Rule](./assets/Simpsons-1-3rd-Rule.png)
+
+
+
+
+
+
 # Best Of Luck 🤗 🎉
