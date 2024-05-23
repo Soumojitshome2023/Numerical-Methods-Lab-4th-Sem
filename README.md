@@ -1,6 +1,10 @@
+![MasterHead](https://github.com/Soumojitshome2023/DSA-CPP-College-3rd-Sem/blob/main/Others/milky-way-night-sky-gif.gif)
+
 <div align="center">
  <h1> Numerical Methods Lab 4th Sem </h1>
 </div>
+
+###### Maintained by [Soumojit Shome](https://soumojitshome.vercel.app)
 
 ## **Commands :**
 
@@ -69,3 +73,5 @@ or
 
 13. [Newton Divided Difference](https://github.com/Soumojitshome2023/Numerical-Methods-Lab-4th-Sem/blob/main/13_Newton_Divided_Difference.c)
 
+
+# Best Of Luck 🤗 🎉
